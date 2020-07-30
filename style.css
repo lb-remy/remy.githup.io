@@ -1,0 +1,63 @@
+body{
+  background-color: #C0FCB1;
+}
+
+#conteneur{ 
+  display: flex;
+}
+
+
+
+#element1 { 
+  border: 1px solid black;
+}
+
+#element2 { 
+  border: 1px solid black;
+}
+
+#element3 { 
+  border: 1px solid black;
+}
+
+
+.logo{
+  float: left;
+}
+
+.menu{
+  clear: both;
+}
+
+#img{
+  border: 2px solid black; 
+  background-color: white;
+}
+
+.info{
+  border-left: 4px solid grey;
+}
+
+.btn1{
+  position: relative;
+  left: 60%;
+}
+
+.btn2{
+  
+}
+
+
+
+
+
+
+
+
+{ }
+
+
+
+
+
+
